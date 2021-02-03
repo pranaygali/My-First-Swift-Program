@@ -35,7 +35,7 @@ Creating a program:
 
 4.	Create a button and name it as “Change the Text”
 
-![](IMG-20210203-WA0003.jpg)
+![](IMG-20210203-WA0001.jpg)
 
 5.	Goto ViewController and include IBOutlet and IBAction. 
 
@@ -43,4 +43,4 @@ Creating a program:
 
 6.	Goto Main.Storyboard and create the events.
 
-![](IMG-20210203-WA0001.jpg)
+![](IMG-20210203-WA0003.jpg)

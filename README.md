@@ -27,18 +27,20 @@ Creating a program:
 
 1.	After creating the project successfully, go to LaunchScreen.storyboard.
 
-
 2.	Add components or elements(labels) to display 
 
+![](IMG-20210203-WA0004.jpg)
 
 3.	Goto Main.storyboard then create a label with text “Hello CEGEP”.
 
-
 4.	Create a button and name it as “Change the Text”
 
+![](IMG-20210203-WA0003.jpg)
 
 5.	Goto ViewController and include IBOutlet and IBAction. 
 
+![](IMG-20210203-WA0002.jpg)
 
 6.	Goto Main.Storyboard and create the events.
 
+![](IMG-20210203-WA0001.jpg)

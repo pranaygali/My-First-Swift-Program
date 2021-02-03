@@ -37,7 +37,8 @@ Creating a program:
 
 ![](IMG-20210203-WA0001.jpg)
 
-5.	Goto ViewController and include IBOutlet and IBAction. 
+5.	Goto ViewController and include IBOutlet and IBAction.
+@IBOutlet is a way of connecting code to storyboard layouts, and @IBAction is a way of making storyboard layouts trigger code. This method takes one parameter, called sender . It's of type UIButton because we know that's what will be calling the method.
 
 ![](IMG-20210203-WA0002.jpg)
 
